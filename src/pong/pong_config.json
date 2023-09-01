@@ -1,0 +1,35 @@
+{
+  "DEFAULT_PONG_CONFIG_FILE_PATH": "pong/pong_config.json",
+  "WINDOW_WIDTH": 700,
+  "WINDOW_HEIGHT": 500,
+  "FPS": 60,
+  "PRIMARY_COLOR": [
+    255,
+    255,
+    255
+  ],
+  "BACKGROUND_COLOR": [
+    0,
+    0,
+    0
+  ],
+  "SECONDARY_COLOR": [
+    255,
+    0,
+    0
+  ],
+  "PADDLE_WIDTH": 20,
+  "PADDLE_HEIGHT": 100,
+  "PADDLE_VELOCITY": 4,
+  "BALL_MAXIMUM_VELOCITY": 5,
+  "BALL_RADIUS": 7,
+  "_SCORE_FONT": [
+    "comicsans",
+    50
+  ],
+  "_HITS_FONT": [
+    "comicsans",
+    50
+  ],
+  "WINNING_SCORE": 3
+}
