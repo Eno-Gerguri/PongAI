@@ -10,7 +10,7 @@ This application was made in python. The interface was made using `PySimpleGUI` 
 
 ##### Main Menu
 
-![Main Menu](imgs\Main Menu.jpg)
+![Main Menu](imgs/Main-Menu.jpg)
 
 The Main Menu is simple consisting on the user's four options:
 
@@ -21,7 +21,7 @@ The Main Menu is simple consisting on the user's four options:
 
 ##### Train AI
 
-![Train AI](imgs\Train AI.jpg)
+![Train AI](imgs/Train-AI.jpg)
 
 The Train AI Menu has a few options for how the user may wish to train the AI:
 
@@ -32,7 +32,7 @@ The Train AI Menu has a few options for how the user may wish to train the AI:
 
 ##### Play VS AI
 
-![Play VS AI](imgs\Play VS AI.jpg)
+![Play VS AI](imgs/Play-VS-AI.jpg)
 
 The Play VS AI Menu has a way to pick a file with the AI and then starts a game against it:
 
@@ -41,7 +41,7 @@ The Play VS AI Menu has a way to pick a file with the AI and then starts a game 
 
 ##### Player 1 VS Player 2
 
-![Player VS Player](imgs\Player VS Player.jpg)
+![Player VS Player](imgs/Player-VS-Player.jpg)
 
 Goes straight into a game:
 
@@ -51,7 +51,7 @@ Goes straight into a game:
 
 ##### Settings
 
-![Settings](imgs\Settings.jpg)
+![Settings](imgs/Settings.jpg)
 
 The Settings Menu allows the user to choose a custom pong configuration file.
 
@@ -65,7 +65,7 @@ It is a type of reinforcement learning, meaning that it rewards good behaviour a
 
 ##### Pong Neural Network
 
-![Pong Neural Network](imgs\Pong Neural Network.jpg)
+![Pong Neural Network](imgs/Pong-Neural-Network.jpg)
 
 **Input Values:** Y value of Paddle, Y value of ball, Distance between ball and paddle
 
